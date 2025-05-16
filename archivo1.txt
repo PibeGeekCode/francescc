@@ -1,2 +1,0 @@
-esta es mi primera pagina de Git 
-hola mundo
